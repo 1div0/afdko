@@ -682,6 +682,7 @@ Changelog
 
 2.7.2 (released 2018-06-27)
 2.7.2 (released 2018-07-27)
+2.7.2 (released 2018-06-27)
 ---------------------------
 
 - Implemented an integration testing framework
